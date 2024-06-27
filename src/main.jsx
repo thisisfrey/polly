@@ -6,9 +6,10 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/polly/">
       <App />
     </Router>
   </React.StrictMode>
 );
+
 

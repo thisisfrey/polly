@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Home from "./modules/Home/Home";
 import CreatePoll from "./modules/CreatePoll/CreatePoll";
 import GiveVote from "./modules/GiveVote/GiveVote";
@@ -21,5 +21,4 @@ function App() {
 }
 
 export default App;
-
 
