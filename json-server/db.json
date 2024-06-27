@@ -1,0 +1,105 @@
+{
+  "polls": [
+    {
+      "id": "1",
+      "pollId": "123456789",
+      "question": "What is your favorite color?",
+      "options": [
+        {
+          "id": 1,
+          "value": "Red",
+          "votes": 0
+        },
+        {
+          "id": 2,
+          "value": "Blue",
+          "votes": 0
+        },
+        {
+          "id": 3,
+          "value": "Green",
+          "votes": 0
+        }
+      ],
+      "duration": "3 days",
+      "requirePassword": true,
+      "password": "mypassword",
+      "dateOfCreation": "2024-06-27T12:00:00Z",
+      "dateOfExpiration": "2024-06-30T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "pollId": "987654321",
+      "question": "Which programming language do you prefer?",
+      "options": [
+        {
+          "id": 1,
+          "value": "JavaScript",
+          "votes": 0
+        },
+        {
+          "id": 2,
+          "value": "Python",
+          "votes": 0
+        },
+        {
+          "id": 3,
+          "value": "Java",
+          "votes": 0
+        },
+        {
+          "id": 4,
+          "value": "C#",
+          "votes": 0
+        }
+      ],
+      "duration": "1 week",
+      "requirePassword": false,
+      "password": "",
+      "dateOfCreation": "2024-06-27T13:30:00Z",
+      "dateOfExpiration": "2024-07-04T13:30:00Z"
+    },
+    {
+      "id": "a83f",
+      "question": "What is your favorite color? XXXX",
+      "options": [
+        {
+          "id": 1,
+          "value": "Red",
+          "votes": 0
+        },
+        {
+          "id": 2,
+          "value": "Blue",
+          "votes": 0
+        }
+      ],
+      "duration": "3 days",
+      "requirePassword": false,
+      "password": "",
+      "dateOfCreation": "2024-06-27T17:12:51.281Z",
+      "dateOfExpiration": "2024-06-30T17:12:51.281Z",
+      "pollId": 917478052
+    },
+    {
+      "id": "521c",
+      "question": "Hello",
+      "options": [
+        {
+          "id": 1719508855920,
+          "value": "test"
+        },
+        {
+          "id": 1719508858878,
+          "value": "test2"
+        }
+      ],
+      "duration": "3 days",
+      "requirePassword": true,
+      "password": "abc",
+      "pollId": "514319893",
+      "dateOfCreation": "2024-06-27T17:20:49.563Z",
+      "dateOfExpiration": "2024-06-27T17:20:49.563Z"
+    }
+  ]
+}
