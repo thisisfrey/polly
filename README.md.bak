@@ -17,7 +17,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 
 3. Endpoint
 
-After starting JSON Server with the above command, you can access your JSON data through the following endpoint: [http://localhost:3001/polls](http://localhost:3001/polls)
+After starting JSON Server with the above command, you can access your JSON data through the following endpoint: http://localhost:3001/polls
 
 ## Start the app
 
