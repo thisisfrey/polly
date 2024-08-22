@@ -17,19 +17,17 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 
 3. Endpoint
 
-After starting JSON Server with the above command, you can access your JSON data through the following endpoint: http://localhost:3001/polls
+After starting the JSON Server, you can access the data through the following endpoint: [http://localhost:3001/polls](http://localhost:3001/polls)
 
 ## Start the app
 
-1. **Install Dependencies**:
-   Execute the following command to install all required dependencies:
+1. Install Dependencies:
    ```bash
    npm install
    ```
-2. **Start the Development Server:**
-    Run the following command to start the application in development mode:
+2. Start the Development Server:
    ```bash
    npm run dev
    ```
-3. **Access the Application:**
+3. Access the Application
 Open your browser and navigate to [http://localhost:5173/polly/](http://localhost:5173/polly/) to view the application.
